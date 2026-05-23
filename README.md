@@ -24,7 +24,7 @@ The overall objective is to help e-commerce businesses better understand custome
 - [Customer Segmentation (RFM Analysis)](#-customer-segmentation-rfm-analysis)
 - [Machine Learning Model](#-machine-learning-model)
 - [Power BI Dashboard](#-power-bi-dashboard)
-- [Streamlit ML Application](#-streamlit-ml-application)
+- [Streamlit ML Application](#️-streamlit-ml-application)
 - [Key Business Insights](#-key-business-insights)
 - [Model Performance](#-model-performance)
 - [How to Run the Project](#-how-to-run-the-project)
