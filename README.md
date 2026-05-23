@@ -18,7 +18,7 @@ The overall objective is to help e-commerce businesses better understand custome
 
 - [Business Problem](#business-problem)
 - [Tools and Technologies](#️-tools-and-technologies)
-- [Project Architecture](#-project-architecture)
+- [Project Architecture](#️-project-architecture)
 - [Project Structure](#-project-structure)
 - [Data Processing and Feature Engineering](#-data-processing-and-feature-engineering)
 - [Customer Segmentation (RFM Analysis)](#-customer-segmentation-rfm-analysis)
